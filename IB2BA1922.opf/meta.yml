@@ -1,0 +1,23 @@
+id: IB2BA1922
+initial_creation_type: ebook
+source_metadata:
+  id: IBA-GR-09
+  title: ༄༅། །ཚད་མ་རིགས་པའི་གཏེར་གྱི་དཀའ་བའི་གནས་རྣམ་པར་བཤད་པ་སྡེ་བདུན་རབ་གསལ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  author: མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
+  authors: &id001
+  - མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
+  sku: IBA-GR-09
+  cover: IBA-GR-09.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །ཚད་མ་རིགས་པའི་གཏེར་གྱི་དཀའ་བའི་གནས་རྣམ་པར་བཤད་པ་སྡེ་བདུན་རབ་གསལ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors: *id001
+  sku: IBA-GR-09
+  cover: IBA-GR-09.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
